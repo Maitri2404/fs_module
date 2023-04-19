@@ -1,0 +1,1 @@
+write file using sync method 

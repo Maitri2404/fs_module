@@ -1,0 +1,3 @@
+This is text file...This is for temporary use...
+
+New content is appended to file
